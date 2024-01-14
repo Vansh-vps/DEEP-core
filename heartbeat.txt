@@ -1558,3 +1558,4 @@
 [2025-11-27 20:37:59] DEEP-core update | chore: update core math dependencies
 [2025-11-29 17:16:27] DEEP-core update | perf: optimize tensor matrix multiplication kernels
 [2024-01-07 13:46:20] DEEP-core update | docs: update deep-core API architecture doc
+[2024-01-14 13:36:56] DEEP-core update | refactor: clean up tensor pipeline interfaces
