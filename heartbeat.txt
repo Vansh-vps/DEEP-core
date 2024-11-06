@@ -1562,3 +1562,4 @@
 [2024-01-21 12:23:58] DEEP-core update | fix: resolve numerical instability in softmax computation
 [2024-01-28 14:13:16] DEEP-core update | perf: optimize tensor matrix multiplication kernels
 [2024-11-03 17:19:55] DEEP-core update | docs: update deep-core API architecture doc
+[2024-11-06 20:26:27] DEEP-core update | fix: handle NaN gradients during deep backprop
