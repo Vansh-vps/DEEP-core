@@ -1569,3 +1569,4 @@
 [2024-11-18 17:49:15] DEEP-core update | perf: improve GPU memory caching allocator
 [2024-11-21 16:22:57] DEEP-core update | chore: update core math dependencies
 [2024-11-24 16:08:08] DEEP-core update | feat: add model quantization and FP16 support
+[2024-11-27 11:37:01] DEEP-core update | fix: handle NaN gradients during deep backprop
