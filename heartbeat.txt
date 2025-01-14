@@ -1448,3 +1448,4 @@
 [2025-01-04 15:47:15] 3D Portfolio update | feat: add interactive hover raycasting for 3D cards
 [2025-01-09 10:42:55] 3D Portfolio update | chore: daily heartbeat sync
 [2025-01-11 20:27:32] 3D Portfolio update | perf: optimize mesh textures and glTF compression
+[2025-01-14 18:50:36] 3D Portfolio update | fix: canvas resize listener on viewport changes
