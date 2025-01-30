@@ -1453,3 +1453,4 @@
 [2025-01-20 19:04:29] 3D Portfolio update | refactor: modularize 3D model loader utility
 [2025-01-23 21:20:24] 3D Portfolio update | chore: routine heartbeat record
 [2025-01-26 16:07:36] 3D Portfolio update | feat: implement smooth scrolling parallax effect
+[2025-01-30 18:03:37] 3D Portfolio update | chore: update three.js and gsap dependencies
