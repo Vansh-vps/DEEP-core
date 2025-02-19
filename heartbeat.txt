@@ -1457,3 +1457,4 @@
 [2025-02-02 21:35:20] 3D Portfolio update | feat: add interactive hover raycasting for 3D cards
 [2025-02-07 11:42:52] 3D Portfolio update | perf: reduce polygon count on hero 3D asset
 [2025-02-16 19:34:44] 3D Portfolio update | feat: add 3D scene lighting and shadow rendering
+[2025-02-19 16:56:40] 3D Portfolio update | fix: canvas resize listener on viewport changes
