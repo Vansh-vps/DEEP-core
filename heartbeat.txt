@@ -1461,3 +1461,4 @@
 [2025-02-25 21:17:09] 3D Portfolio update | chore: daily heartbeat sync
 [2025-03-01 11:26:48] 3D Portfolio update | perf: reduce polygon count on hero 3D asset
 [2025-03-07 19:24:56] 3D Portfolio update | style: improve UI overlay for 3D showcase
+[2025-03-11 17:23:02] 3D Portfolio update | feat: add post-processing bloom effect
