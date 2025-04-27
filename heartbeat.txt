@@ -1475,3 +1475,4 @@
 [2025-04-20 14:36:48] 3D Portfolio update | chore: update three.js and gsap dependencies
 [2025-04-22 12:07:24] 3D Portfolio update | fix: canvas resize listener on viewport changes
 [2025-04-24 18:07:50] 3D Portfolio update | feat: add post-processing bloom effect
+[2025-04-27 13:40:47] 3D Portfolio update | fix: resolve WebGL context loss on background tab
