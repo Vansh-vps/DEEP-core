@@ -1478,3 +1478,4 @@
 [2025-04-27 13:40:47] 3D Portfolio update | fix: resolve WebGL context loss on background tab
 [2025-05-01 19:28:56] 3D Portfolio update | feat: implement smooth scrolling parallax effect
 [2025-05-04 20:45:39] 3D Portfolio update | feat: add 3D scene lighting and shadow rendering
+[2025-05-09 16:30:06] 3D Portfolio update | feat: add post-processing bloom effect
