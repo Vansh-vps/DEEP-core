@@ -1480,3 +1480,4 @@
 [2025-05-04 20:45:39] 3D Portfolio update | feat: add 3D scene lighting and shadow rendering
 [2025-05-09 16:30:06] 3D Portfolio update | feat: add post-processing bloom effect
 [2025-05-10 16:55:36] 3D Portfolio update | fix: resolve WebGL context loss on background tab
+[2025-05-14 16:26:26] 3D Portfolio update | feat: add interactive hover raycasting for 3D cards
