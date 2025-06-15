@@ -1488,3 +1488,4 @@
 [2025-05-29 14:34:30] 3D Portfolio update | chore: routine heartbeat record
 [2025-06-03 17:00:47] 3D Portfolio update | feat: add interactive hover raycasting for 3D cards
 [2025-06-11 12:26:00] 3D Portfolio update | feat: implement Three.js camera orbit controls
+[2025-06-15 14:25:50] 3D Portfolio update | style: improve UI overlay for 3D showcase
