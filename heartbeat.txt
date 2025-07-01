@@ -1491,3 +1491,4 @@
 [2025-06-15 14:25:50] 3D Portfolio update | style: improve UI overlay for 3D showcase
 [2025-06-23 14:28:56] 3D Portfolio update | feat: add 3D scene lighting and shadow rendering
 [2025-06-26 14:34:43] 3D Portfolio update | perf: optimize mesh textures and glTF compression
+[2025-07-01 11:10:57] 3D Portfolio update | fix: resolve WebGL context loss on background tab
