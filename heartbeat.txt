@@ -1504,3 +1504,4 @@
 [2025-08-23 18:08:17] 3D Portfolio update | chore: system health check pulse
 [2025-09-01 15:09:05] 3D Portfolio update | feat: implement smooth scrolling parallax effect
 [2025-09-03 21:21:03] 3D Portfolio update | fix: resolve WebGL context loss on background tab
+[2025-09-05 16:58:40] 3D Portfolio update | fix: canvas resize listener on viewport changes
