@@ -1505,3 +1505,4 @@
 [2025-09-01 15:09:05] 3D Portfolio update | feat: implement smooth scrolling parallax effect
 [2025-09-03 21:21:03] 3D Portfolio update | fix: resolve WebGL context loss on background tab
 [2025-09-05 16:58:40] 3D Portfolio update | fix: canvas resize listener on viewport changes
+[2025-09-07 19:46:09] 3D Portfolio update | feat: add post-processing bloom effect
