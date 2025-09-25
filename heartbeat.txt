@@ -1514,3 +1514,4 @@
 [2025-09-19 21:10:40] 3D Portfolio update | perf: reduce polygon count on hero 3D asset
 [2025-09-21 10:52:30] 3D Portfolio update | chore: update three.js and gsap dependencies
 [2025-09-23 12:31:49] 3D Portfolio update | fix: canvas resize listener on viewport changes
+[2025-09-25 16:18:01] 3D Portfolio update | refactor: modularize 3D model loader utility
