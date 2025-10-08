@@ -1518,3 +1518,4 @@
 [2025-09-28 11:20:58] 3D Portfolio update | refactor: modularize 3D model loader utility
 [2025-09-29 14:01:00] 3D Portfolio update | feat: implement Three.js camera orbit controls
 [2025-10-03 20:32:05] 3D Portfolio update | feat: add post-processing bloom effect
+[2025-10-08 11:01:17] 3D Portfolio update | feat: add interactive hover raycasting for 3D cards
