@@ -1549,3 +1549,4 @@
 [2025-01-28 16:01:15] DEEP-core update | fix: handle NaN gradients during deep backprop
 [2025-11-03 17:55:29] DEEP-core update | perf: improve GPU memory caching allocator
 [2025-11-06 14:18:13] DEEP-core update | perf: optimize memory bandwidth on core tensor ops
+[2025-11-09 20:09:00] DEEP-core update | docs: update deep-core API architecture doc
