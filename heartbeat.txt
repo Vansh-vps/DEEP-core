@@ -1551,3 +1551,4 @@
 [2025-11-06 14:18:13] DEEP-core update | perf: optimize memory bandwidth on core tensor ops
 [2025-11-09 20:09:00] DEEP-core update | docs: update deep-core API architecture doc
 [2025-11-12 19:45:05] DEEP-core update | test: add unit tests for convolutional layer backprop
+[2025-11-15 20:41:59] DEEP-core update | fix: handle NaN gradients during deep backprop
