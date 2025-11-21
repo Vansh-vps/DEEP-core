@@ -1553,3 +1553,4 @@
 [2025-11-12 19:45:05] DEEP-core update | test: add unit tests for convolutional layer backprop
 [2025-11-15 20:41:59] DEEP-core update | fix: handle NaN gradients during deep backprop
 [2025-11-18 16:42:38] DEEP-core update | feat: add distributed gradient synchronization
+[2025-11-21 20:11:42] DEEP-core update | chore: update core math dependencies
