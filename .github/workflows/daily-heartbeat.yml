@@ -1,0 +1,33 @@
+name: Daily Heartbeat Committer
+
+on:
+  schedule:
+    # Runs twice every day (at 04:35 UTC and 16:35 UTC)
+    # Even if you are offline or your PC is turned off!
+    - cron: '35 4,16 * * *'
+  workflow_dispatch: # Allows manual trigger anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate Daily Heartbeat Commit
+        run: |
+          git config --global user.name "Vansh pratap"
+          git config --global user.email "vanshpratap2323@gmail.com"
+          python commit_maker.py daily --count 1
+
+      - name: Push Heartbeat to GitHub
+        run: |
+          git push origin main
