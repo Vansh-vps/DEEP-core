@@ -3,9 +3,10 @@ name: Daily Heartbeat Committer
 on:
   schedule:
     # Runs twice every day (at 04:35 UTC and 16:35 UTC)
-    # Even if you are offline or your PC is turned off!
+    # Fully automated in the GitHub cloud 24/7/365
+    # Even if your computer is completely turned off or you are offline!
     - cron: '35 4,16 * * *'
-  workflow_dispatch: # Allows manual trigger anytime from GitHub Actions tab
+  workflow_dispatch: # Allows you to manually trigger it anytime from GitHub
 
 permissions:
   contents: write
@@ -16,6 +17,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,4 +33,5 @@ jobs:
 
       - name: Push Heartbeat to GitHub
         run: |
+          git pull origin main --rebase
           git push origin main
