@@ -1,10 +1,10 @@
-# 🟢 GitHub Heartbeat & Automated Commit Maker
+#  GitHub Heartbeat & Automated Commit Maker
 
 An automated tool to **backfill past GitHub contribution activity ("old heartbeats")** and maintain **automated daily commits 24/7 in the cloud**—even when you are offline or your PC is turned off.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Backfill Old Heartbeats**: Populate your past GitHub contribution graph with realistic or solid green squares for any time frame (past 3 months, 6 months, 1 year, or custom date ranges).
 - **24/7 Automated Daily Commits**: Uses free GitHub Actions cloud cron runners—commits automatically even when your computer is off or you have no internet.
@@ -16,7 +16,7 @@ An automated tool to **backfill past GitHub contribution activity ("old heartbea
 
 ---
 
-## ⚙️ Quick Start Setup (3 Steps)
+##  Quick Start Setup (3 Steps)
 
 ### Step 1: Create a Repository on GitHub
 1. Go to [github.com/new](https://github.com/new) and create a repository (e.g. `github-heartbeat` or any name).
@@ -42,7 +42,7 @@ To let GitHub Actions commit daily in the cloud without needing personal tokens:
 
 ---
 
-## 🕒 How to Make / Backfill Old Heartbeats
+##  How to Make / Backfill Old Heartbeats
 
 You can backfill your past contribution history in two ways:
 
@@ -81,7 +81,7 @@ Your GitHub contribution graph will update immediately!
 
 ---
 
-## ⚡ Daily Commits (When Offline)
+##  Daily Commits (When Offline)
 
 The repository includes a GitHub Actions workflow located at:
 [`.github/workflows/daily-heartbeat.yml`](.github/workflows/daily-heartbeat.yml)
@@ -93,7 +93,7 @@ The repository includes a GitHub Actions workflow located at:
 
 ---
 
-## ⚠️ Important GitHub Profile Settings
+##  Important GitHub Profile Settings
 
 For contributions to show on your GitHub profile:
 
@@ -111,7 +111,7 @@ For contributions to show on your GitHub profile:
 
 ---
 
-## 📊 Checking Your Stats
+##  Checking Your Stats
 
 To see summary statistics of all commits currently in the repository:
 ```bash
