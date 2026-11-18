@@ -117,3 +117,5 @@ To see summary statistics of all commits currently in the repository:
 ```bash
 python commit_maker.py stats
 ```
+
+Co-author test
